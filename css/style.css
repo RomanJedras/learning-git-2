@@ -1,3 +1,12 @@
 .clearfix {
     margin-bottom: 20px;
 }
+
+.footer {
+    background-color: rgb(142, 137, 137);
+}
+
+.footer h3 {
+    color: white;
+    font-size: 12px;
+}
