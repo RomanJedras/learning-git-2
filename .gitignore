@@ -1,0 +1,11 @@
+# Created by https://www.gitignore.io/api/notepadpp
+# Edit at https://www.gitignore.io/?templates=notepadpp
+
+### NotepadPP ###
+# Notepad++ backups #
+*.bak
+node_modules/
+package-lock.json
+server.js
+
+# End of https://www.gitignore.io/api/notepadpp
