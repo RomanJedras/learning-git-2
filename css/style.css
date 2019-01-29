@@ -1,7 +1,6 @@
 .clearfix {
     margin-bottom: 12px;
-    display: flex;
-}
+ }
 
 .footer {
     background-color: rgb(132, 137, 137);
